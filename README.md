@@ -1,6 +1,11 @@
 # Mosaic Assessment
 
-## To run locally
+## View app at 
+https://mosaic-assessment.vercel.app/
+
+## or
+
+## Run locally
 
 ```
 yarn
