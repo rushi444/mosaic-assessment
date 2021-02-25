@@ -1,0 +1,35 @@
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 90%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  thead {
+    background: #d3d3d3;
+  }
+  
+  tr {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+  }
+  
+  th,
+  td {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    text-align: center;
+  }
+  
+  th {
+    cursor: pointer;
+  }
+  
+  image {
+    height: 1em;
+  }
+  
+  .pinned {
+    background-color: yellow
+  }
+  
